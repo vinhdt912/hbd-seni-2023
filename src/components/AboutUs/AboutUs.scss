@@ -1,0 +1,19 @@
+.AboutUs {
+  .TextDescription {
+    margin-top: 30px;
+    padding-inline: 25px;
+  }
+
+  .col-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .col-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+}

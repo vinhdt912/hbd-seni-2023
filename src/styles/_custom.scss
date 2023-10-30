@@ -1,0 +1,28 @@
+.container-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+div.card {
+  padding: 15px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  vertical-align: middle;
+  width: 100%;
+  height: auto;
+  border: 0;
+}
+
+svg {
+  fill: #d67567;
+  display: block;
+}
+
+.text-center {
+  text-align: center;
+}
