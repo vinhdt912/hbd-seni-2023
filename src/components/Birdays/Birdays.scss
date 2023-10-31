@@ -1,0 +1,12 @@
+.Birdays {
+  .ant-tabs-nav {
+    padding-inline: 16px;
+  }
+  .HBDContainer:not(:first-child) {
+    padding: 16px;
+
+    .content {
+      margin-top: 40px;
+    }
+  }
+}
