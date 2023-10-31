@@ -2,11 +2,14 @@
   .ant-tabs-nav {
     padding-inline: 16px;
   }
-  .HBDContainer:not(:first-child) {
+  .HBDContainer {
     padding: 16px;
 
     .content {
       margin-top: 40px;
+      img {
+        border-radius: 8px;
+      }
     }
   }
 }
